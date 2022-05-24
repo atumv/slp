@@ -1,0 +1,19 @@
+{
+  "name": "slp",
+  "version": "1.0.0",
+  "author": "atumv",
+  "scripts": {
+    "dev": "cross-env TAILWIND_MODE=watch vite",
+    "build": "cross-env TAILWIND_MODE=build vite build",
+    "serve": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {
+    "vitawind": "^2.0.0",
+    "vite": "^2.4.4"
+  }
+}
