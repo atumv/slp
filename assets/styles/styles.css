@@ -50,25 +50,16 @@ a {
   padding: 30px 0;
 }
 
-.logo-link {
-  /* display: inline-block; */
-}
-
 .logo {
-  /* display: inline-block; */
   width: 80px;
   height: 80px;
   background-color: #c4c4c4;
-}
-
-.nav {
 }
 
 .nav__link {
   font-family: 'NunitoSans-SemiBold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 15px;
   color: #ebebeb;
-  /* margin: 0 9px; */
 }
 
 .download-btn {
@@ -96,7 +87,6 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 24.2px;
   color: #ebebeb;
-  /* margin: 33px 0; */
   line-height: 31px;
 }
 
@@ -110,21 +100,7 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 53px;
   color: #ededed;
-  /* margin-top: 94px; */
   line-height: 64px;
-}
-
-.articles-container {
-  /* margin-top: 60px; */
-}
-
-.articles__article {
-}
-
-.article {
-}
-
-.article__preview-link {
 }
 
 .article__preview {
@@ -138,7 +114,6 @@ a {
   font-size: 18px;
   color: #ebebeb;
   display: inline-block;
-  /* margin-top: 22px; */
 }
 
 .read-more::after {
@@ -173,24 +148,18 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 39px;
   color: #ebebeb;
-  /* margin-top: 24px; */
 }
 
 .service__description {
   font-family: 'NunitoSans-SemiBold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 18px;
   color: #ebebeb;
-  /* margin-top: 15px; */
-}
-
-.service-list {
 }
 
 .service-list__item {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 31px;
   color: #ebebeb;
-  /* margin-bottom: 10px; */
 }
 
 .showcase {
@@ -202,7 +171,6 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 25px;
   color: #ebebeb;
-  /* margin-bottom: 16px; */
 }
 
 .showcase__subtitle {
@@ -241,7 +209,6 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 53px;
   color: #ededed;
-  /* margin-bottom: 71px; */
 }
 
 .testimonials__item {
@@ -267,7 +234,6 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 18px;
   color: #2b2b2b;
-  /* margin-top: 24px; */
 }
 
 .testimonial__occupation {
@@ -290,25 +256,14 @@ a {
   background-repeat: no-repeat;
 }
 
-.footer__info {
-}
-
-.info {
-}
-
 .info__title {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 14px;
   color: #ebebeb;
 }
 
-.socials {
-  /* margin-top: 19px; */
-}
-
 .social-link {
   display: inline-block;
-  /* margin: 0 8px; */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -342,7 +297,6 @@ a {
   font-family: 'NunitoSans-Bold', 'Arial', 'Tahoma', 'Verdana', sans-serif;
   font-size: 14px;
   color: #ebebeb;
-  /* margin-top: 19px; */
 }
 
 .copyright {
